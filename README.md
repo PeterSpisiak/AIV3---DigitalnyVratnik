@@ -13,3 +13,6 @@
 -	M-F, F-F GPIO kábliky
 -	Breadboard
 -	Krabička pre terminál
+
+# Schéma zapojenia terminálu
+![Ukážka](https://github.com/PeterSpisiak/AIV3---DigitalnyVratnik/blob/main/Dokumenty%2C%20obr%C3%A1zky/Sch%C3%A9ma%20zapojenia%20termin%C3%A1lu.png)
